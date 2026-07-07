@@ -15,7 +15,9 @@ The Bridge is implemented as a custom VCV Rack module that scans the live Rack p
 ## Build
 
 The Bridge follows the standard VCV Rack plugin structure.  
-To build it, install the VCV Rack SDK and follow the official VCV Rack plugin development and building documentation.
+To build it, install the VCV Rack SDK and follow the official VCV Rack plugin development and building [documentation](https://vcvrack.com/manual/PluginDevelopmentTutorial).
+
+Typical Rack plugin builds use the `RACK_DIR` environment variable to point to the local Rack SDK installation, followed by `make`.
 
 Tested with:
 - VCV Rack: 2.6.6
