@@ -8,9 +8,14 @@ This repository contains the source material and evaluation logs for **VeryVCV R
 
 The prototype uses a custom VCV Rack Bridge module to export a structured JSON description of the current patch and to exchange runtime parameter-control messages with the Quest client through OSC/UDP.
 
-## Demo video
+## Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FZk0blJhl28?si=1hRaBtZy4w5Dnsb3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The following video demonstrates description-driven interface reconstruction, hand-tracked interaction, and parameter synchronization between VCV Rack and Meta Quest 3.
+
+[![VeryVCV Rack Video Demonstration](https://img.youtube.com/vi/FZk0blJhl28/hqdefault.jpg)](https://www.youtube.com/watch?v=FZk0blJhl28)
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=FZk0blJhl28)
+
 
 ## Repository structure
 ```text
