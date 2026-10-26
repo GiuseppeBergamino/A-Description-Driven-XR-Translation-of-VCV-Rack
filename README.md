@@ -8,6 +8,10 @@ This repository contains the source material and evaluation logs for **VeryVCV R
 
 The prototype uses a custom VCV Rack Bridge module to export a structured JSON description of the current patch and to exchange runtime parameter-control messages with the Quest client through OSC/UDP.
 
+## Demo video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FZk0blJhl28?si=1hRaBtZy4w5Dnsb3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Repository structure
 ```text
 .
